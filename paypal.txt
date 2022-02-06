@@ -1,0 +1,30 @@
+https://hackthestuff.com/article/paypal-payment-gateway-integration-in-laravel-8
+https://developer.paypal.com/developer/applications/edit/SB:QWV4cGtlcm9XLW1pazJ0alBaaWVyN29UZDhqOGFsLTBZdnJqRkdYNHF6cGRyeG5SUWRLa0NabXJkMGpkcmZ2ekh3S1N6ZXpwcGdvZ2tfV18=?appname=TestAPP
+
+sb-qwghg13017882@personal.example.com
+
+First name:
+John
+Last name:
+Doe
+Email ID:
+sb-qwghg13017882@personal.example.com
+System Generated Password:
+luV?2EL9
+
+
+Bank Account
+Account Number:
+070908492
+Routing Number:
+325272063
+Credit Card
+Credit Card Number:
+4032038366726994
+Credit Card Type:
+VISA
+Expiration Date:
+03/2027
+PayPal
+Balance:
+5000.00 USD
